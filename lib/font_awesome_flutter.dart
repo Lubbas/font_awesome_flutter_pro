@@ -10145,8 +10145,9 @@ class FontAwesomeIcons {
   ///
   /// https://fontawesome.com/icons/person-walking-dashed-line-arrow-right?style=solid
   /// exit, follow, refugee, uer
-  static const IconData personWalkingDashedLineArrowRight =
-      IconDataSolid(0xe553);
+  static const IconData personWalkingDashedLineArrowRight = IconDataSolid(
+    0xe553,
+  );
 
   /// Solid Person Walking Luggage icon
   ///
